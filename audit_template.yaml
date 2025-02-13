@@ -1,0 +1,39 @@
+audit_template:
+  company: Company Name x From 6 Agency
+  project_name: Order to Cash
+  sections:
+    as_is_situation:
+      description: Current state of the Order to Cash process
+      high_level_process:
+        steps:
+        - Account Opportunity
+        - Quote Order/Subscription Invoice
+        - Customer Advanced Approvals
+        - Pricing Grid
+      pain_points:
+      - Single opportunity process
+      - Manual Customer, Order/subscriptions Inputs from SFDC to NETSUITE
+      - Product catalog not aligned between systems
+      - High complexity to handle T&Cs per product
+    objectives:
+      focus_on_key_topics:
+      - key topic 1
+      - key topic 2
+      - key topic 3
+      review_business_architecture: true
+      target_architecture: true
+    target_situation:
+      description: Future state with SFDC focus
+      gains:
+      - Add specific rules between processes
+      - Monitor and improve control in the sales lifecycle
+      - Split revenue tracking between pipeline and committed revenue
+      - Expand data model to optimize team focus
+      new_process:
+        steps:
+        - New Sales Opportunity
+        - Upsell/Cross-sell Opportunity
+        - Renewal Opportunity
+        - Order Contract
+        - Pipeline Revenue
+        - Committed Revenue

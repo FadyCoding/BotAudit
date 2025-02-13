@@ -1,0 +1,7 @@
+Section,Category,Details
+Objectives,Review Business Architecture,True
+Objectives,Focus on Key Topics,"key topic 1, key topic 2, key topic 3"
+Objectives,Target Architecture,True
+As-Is Situation,Description,Current state of the Order to Cash process
+As-Is Situation,Pain Points,"Single opportunity process, Manual Customer, Order/subscriptions Inputs from SFDC to NETSUITE, Product catalog not aligned between systems, High complexity to handle T&Cs per product"
+Target Situation,Description,Future state with SFDC focus

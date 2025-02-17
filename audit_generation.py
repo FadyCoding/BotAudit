@@ -62,7 +62,7 @@ def generate_audit_yaml(output_file="audit_template.yaml"):
 
     print(f"YAML file '{output_file}' generated successfully.")
 
-
+#my first commit#
 def generate_audit_csv(output_file="audit_template.csv"):
     audit_data = [
         ["Section", "Category", "Details"],
